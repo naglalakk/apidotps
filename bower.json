@@ -15,7 +15,12 @@
     "purescript-eff": "^3.2.1",
     "purescript-maybe": "^3.1.0",
     "purescript-either": "^3.2.0",
-    "purescript-http-methods": "^3.0.0"
+    "purescript-http-methods": "^3.0.0",
+    "pluralize": "^7.0.0",
+    "purescript-ffi-utils": "^4.0.0",
+    "purescript-easy-ffi": "^2.1.2",
+    "purescript-debug": "^3.0.0",
+    "purescript-arrays": "^4.3.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"

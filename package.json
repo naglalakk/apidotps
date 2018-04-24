@@ -1,0 +1,25 @@
+{
+  "name": "apidotps",
+  "version": "1.0.0",
+  "description": "API helpers",
+  "main": "output/Main/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naglalakk/apidotps.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naglalakk/apidotps/issues"
+  },
+  "homepage": "https://github.com/naglalakk/apidotps#readme",
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
